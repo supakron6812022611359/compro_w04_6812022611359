@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    char name = 's';          //ตัวแรกของชื่อ
-    int ag = 18;              //อายุ
+    char name = 's';          //ตัวแรกของชื่อ"S"
+    int ag = 18;              //อายุ "18"
     float wei = 100.50;       //นํ้าหนัก   
     char gen[] = "Male";      //เพศ
 
